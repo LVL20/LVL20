@@ -1,4 +1,4 @@
-👋 Hi, I’m Alex Ruiz. I am a designer and web developer from Buenos Aires, Argentina. I am unconditionally passionate about modern and creative designs
+👋 Hi, I’m Alex Ruiz. I am a designer and web developer in process from Buenos Aires, Argentina. I am unconditionally passionate about modern and creative designs
 
 
 - 🌱 I’m currently learning HTML, CSS, C#, JavaScript, Jquery, Bootstrap and Materialize.
