@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, C#, JavaScript, Jquery, Bootstrap and Materialize**
 
-- 👨‍💻 All of my projects are available at [alexruix.github.io/home](alexruix.github.io/home)
+- 👨‍💻 All of my projects are available at [https://alexruix.github.io/home](alexruix.github.io/home)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
