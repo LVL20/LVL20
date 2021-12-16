@@ -3,15 +3,14 @@
 <h3 align:"center"> I'm a passionate self-taught front end developer focused on crafting clean & user‑friendly experiences </h3>
 
 - :computer: You can see my portfolio at [my website][website].
-- 📧: Feel free to get in touch with me at <a href="https://codepen.io/tormenta" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tormenta" width="30px" /></a> <a href="https://dribbble.com/alexruix" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="alexruix" width="30px" /></a>
+- 📧: Feel free to get in touch with me at   <a href="https://www.instagram.com/ui.tormenta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexruix" width="20px" />Instagram</a>
 - 🌱 I am currently learning web design.
 - 👯 I am looking to collaborate with companies or in commercial projects.
-- :paperclip: [My Resume/CV]
 - ⚡ Fun fact: I love coffee ☕.
 
-### Connect with me:
+### Social Media:
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ui.tormenta)
+[![Dribble Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ui.tormenta)
 
 <br/>
 
