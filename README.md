@@ -1,16 +1,19 @@
-<h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi"> I'm Alex Ruiz</h1>
+<h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi"> I'm Alex Ruiz 🚀</h1>
 
-<h3 align:"center"> I'm a passionate self-taught front end developer focused on crafting clean & user‑friendly experiences </h3>
+### About me
 
-- :computer: You can see my portfolio at [my website][website].
-- 📧: Feel free to get in touch with me at   <a href="https://www.instagram.com/ui.tormenta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexruix" width="20px" />Instagram</a>
-- 🌱 I am currently learning web design.
+<h4 align:"center"> I'm a passionate self-taught fullstack frontend developer focused on crafting clean & user‑friendly experiences </h4>
+
+- :computer: You can see my portfolio [here][website].
+- 🌱 I am currently learning frontend technologies.
 - 👯 I am looking to collaborate with companies or in commercial projects.
 - ⚡ Fun fact: I love coffee ☕.
 
-### Social Media:
+### Feel free to get in touch with me at:
 
-[![Dribble Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ui.tormenta)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][Social].
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][Instagram].
+
 
 <br/>
 
@@ -30,5 +33,6 @@
 
 ---
 
-[website]: https://alexruix.github.io/home
+[website]: https://alexruix.netlify.app/
+[Social]: https://www.linkedin.com/in/ruiz-alex-62a944210/
 [instagram]: https://www.instagram.com/ui.tormenta
