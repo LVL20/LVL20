@@ -34,5 +34,5 @@
 ---
 
 [website]: https://alexruix.netlify.app/
-[Social]: https://www.linkedin.com/in/alex-ruiz-62a944210/
+[Social]: https://www.linkedin.com/in/alexruix/
 [instagram]: https://www.instagram.com/ui.tormenta
