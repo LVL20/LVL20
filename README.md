@@ -2,7 +2,7 @@
 
 ### About me
 
-<h4 align:"center"> I'm a passionate self-taught fullstack frontend developer focused on crafting clean & user‑friendly experiences </h4>
+<h4 align:"center"> I'm a passionate self-taught, UI/UX designer and frontend developer focused on crafting clean & user‑friendly experiences </h4>
 
 - :computer: You can see my portfolio [here][website].
 - 🌱 I am currently learning frontend technologies.
