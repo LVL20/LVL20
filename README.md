@@ -7,7 +7,7 @@
 - :computer: You can see my portfolio [here][website].
 - 🌱 I am currently learning frontend technologies.
 - 👯 I am looking to collaborate with companies or in commercial projects.
-- ⚡ Fun fact: I love coffee ☕.
+- ⚡ Fun fact: I love summer ⛱.
 
 ### Feel free to get in touch with me at:
 
