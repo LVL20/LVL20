@@ -2,17 +2,20 @@
 
 ### About me
 
-<h4 align:"center"> I'm a passionate self-taught, UI/UX designer and frontend developer focused on crafting clean & user‑friendly experiences </h4>
+<h4 align:"center"> I'm UI designer and frontend developer.
+
+
+I´m passionate about design and develop interfaces to offer the best possible product focused on users</h4>
 
 - :computer: You can see my portfolio [here][website].
-- 🌱 I am currently learning frontend technologies.
-- 👯 I am looking to collaborate with companies or in commercial projects.
-- ⚡ Fun fact: I love summer ⛱.
+- 🌱 I'm currently learning frontend technologies.
+- 👯 I'm looking to collaborate with companies or in commercial projects.
+- ⚡ Fun fact: I love tech, coffee and summer 😉
 
 ### Feel free to get in touch with me at:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][Social].
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][Instagram].
+[![Linkedin Badge](https://img.shields.io/badge//alexruix-0077B5?style=flat&logo=linkedin&logoColor=white)][Social].
+[![Twitter Badge](https://img.shields.io:/twitter/follow/alexruixdev?label=/alexruixdev&style=social)][Twitter].
 
 
 <br/>
@@ -35,4 +38,5 @@
 
 [website]: https://alexruix.netlify.app/
 [Social]: https://www.linkedin.com/in/alexruix/
+[Twitter]: https://twitter.com/alexruixdev
 [instagram]: https://www.instagram.com/ui.tormenta
