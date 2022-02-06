@@ -1,4 +1,3 @@
-![Banner image](https://github.com/alexruix/alexruix/blob/main/banner.webp)
 <h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi"> I'm Alex Ruiz 🚀</h1>
 
 ### About me
@@ -9,7 +8,6 @@
 I´m passionate about design and develop interfaces to offer the best possible product focused on users</h4>
 
 - :computer: You can see my portfolio [here][website].
-- 🌱 I'm currently learning frontend technologies.
 - 👯 I'm looking to collaborate with companies or in commercial projects.
 - ⚡ Fun fact: I love tech, coffee and summer 😉
 
@@ -18,8 +16,6 @@ I´m passionate about design and develop interfaces to offer the best possible p
 [![Linkedin Badge](https://img.shields.io/badge//alexruix-0077B5?style=flat&logo=linkedin&logoColor=white)][Social].
 [![Twitter Badge](https://img.shields.io:/twitter/follow/alexruixdev?label=/alexruixdev&style=social)][Twitter].
 
-
-<br/>
 
 ### Languages ​​and Tools:
 
