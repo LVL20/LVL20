@@ -1,37 +1,41 @@
-<h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi"> I'm Alex Ruiz 🚀</h1>
+## Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px" alt="hi"> I'm [Alex!][website]
+<img src="https://github.com/alexruix/alexruix/blob/main/computer.png" min-width="200px" max-width="400px" width="250px" align="right" alt="Computer Code"> 
 
-### About me
+<br/>
 
-<h4 align:"center"> I'm UI designer and frontend developer.
+<a href="https://twitter.com/alexruixdev">
+<img align="left" alt="Alex Ruiz Twitter" width="25px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=0082ff" />
+</a>
+<a href="https://www.linkedin.com/in/alexruix/">
+<img align="left" alt="Alex Ruiz LinkedIN" width="25px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=0082ff" />
+</a>
+<a href="https://alexruix.netlify.app/">
+<img align="left" alt="Alex Ruiz Website" width="25px" src="https://icongr.am/fontawesome/chrome.svg?size=128&color=0082ff" />
+</a>
+<br>
+
+#### About me
+
+<p align="left">
+
+- UI Designer and frontend developer
+- I design and develop interfaces focused on users
+- I love tech, coffee and summer 😉
+</p>
 
 
-I´m passionate about design and develop interfaces to offer the best possible product focused on users</h4>
-
-- :computer: You can see my portfolio [here][website].
-- 👯 I'm looking to collaborate with companies or in commercial projects.
-- ⚡ Fun fact: I love tech, coffee and summer 😉
-
-### Feel free to get in touch with me at:
-
-[![Linkedin Badge](https://img.shields.io/badge//alexruix-0077B5?style=flat&logo=linkedin&logoColor=white)][Social].
-[![Twitter Badge](https://img.shields.io:/twitter/follow/alexruixdev?label=/alexruixdev&style=social)][Twitter].
+#### Languages and Tools
+<img align="left" height="20" src="https://icongr.am/simple/figma.svg?size=128&color=ece9e6">
+<img align="left" height="20" src="https://icongr.am/simple/adobeillustrator.svg?size=128&color=ece9e6">
+<img align="left" height="20" src="https://icongr.am/simple/javascript.svg?size=128&color=ece9e6">
+<img align="left" height="20" src="https://icongr.am/simple/react.svg?size=128&color=ece9e6">
+<img align="left" height="20" src="https://icongr.am/simple/git.svg?size=128&color=ece9e6">
+<img align="left" height="20" src="https://icongr.am/simple/firebase.svg?size=128&color=ece9e6">
 
 
-### Languages ​​and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Bootsrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="xd" width=26px; src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd"/> 
-<img align="left" alt="figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<br />
-<br />
-
----
+<!-- [![Alex Ruiz LinkedIN](https://icongr.am/fontawesome/linkedin.svg?size=25&color=0082ff)][Social]
+[![Alex Ruiz Twittter](https://icongr.am/fontawesome/twitter.svg?size=25&color=0082ff)][Twitter] -->
 
 [website]: https://alexruix.netlify.app/
 [Social]: https://www.linkedin.com/in/alexruix/
