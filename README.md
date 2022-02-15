@@ -1,5 +1,5 @@
 ## Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px" alt="hi"> I'm [Alex!][website]
-<img src="https://github.com/alexruix/alexruix/blob/main/computer.png" min-width="200px" max-width="400px" width="250px" align="right" alt="Computer Code"> 
+<img src="https://github.com/alexruix/alexruix/blob/main/computer.png" width="23%" align="right" alt="Computer Code"> 
 
 <br/>
 
