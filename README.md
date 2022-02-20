@@ -10,7 +10,10 @@
 <img align="left" alt="Alex Ruiz LinkedIN" width="25px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=0082ff" />
 </a>
 <a href="https://alexruix.netlify.app/">
-<img align="left" alt="Alex Ruiz Website" width="25px" src="https://icongr.am/fontawesome/chrome.svg?size=128&color=0082ff" />
+<img align="left" alt="Alex Ruiz Website" width="23px" src="https://icongr.am/fontawesome/chrome.svg?size=128&color=0082ff" />
+</a>
+<a href="https://www.behance.net/alexruix">
+<img align="left" alt="Alex Ruiz Behance" width="25px" src="https://icongr.am/fontawesome/behance.svg?size=128&color=0082ff" />
 </a>
 <br>
 
