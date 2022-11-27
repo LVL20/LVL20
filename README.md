@@ -21,19 +21,22 @@
 
 <p align="left">
 
-- UI Designer and frontend developer
+- I'm UI Designer
 - I design and develop interfaces focused on users
 - I love tech, coffee and summer 😉
 </p>
 
 
-#### Languages and Tools
+#### Tools
 <img align="left" height="20" src="https://icongr.am/simple/figma.svg?size=128&color=ece9e6">
 <img align="left" height="20" src="https://icongr.am/simple/adobeillustrator.svg?size=128&color=ece9e6">
+<img align="left" height="20" src="https://icongr.am/simple/adobeaftereffects.svg?size=128&color=ece9e6">
+<img align="left" height="20" src="https://icongr.am/simple/html5.svg?size=128&color=ece9e6">
+<img align="left" height="20" src="https://icongr.am/simple/css3.svg?size=128&color=ece9e6">
 <img align="left" height="20" src="https://icongr.am/simple/javascript.svg?size=128&color=ece9e6">
-<img align="left" height="20" src="https://icongr.am/simple/react.svg?size=128&color=ece9e6">
 <img align="left" height="20" src="https://icongr.am/simple/git.svg?size=128&color=ece9e6">
-<img align="left" height="20" src="https://icongr.am/simple/firebase.svg?size=128&color=ece9e6">
+<!-- <img align="left" height="20" src="https://icongr.am/simple/react.svg?size=128&color=ece9e6"> -->
+
 
 
 
